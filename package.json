@@ -1,0 +1,16 @@
+{
+  "name": "kata-isbn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node isbnValidator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
